@@ -1,1 +1,1 @@
-**Simple Random Sampling:** Metode pengambilan sampel di mana setiap individu dalam populasi memiliki peluang yang sama untuk dipilih. Digunakan dalam proyek untuk meminimalkan bias dalam pemilihan sampel.
+**A/B Testing:** Metode eksperimen untuk membandingkan dua versi (A dan B) suatu elemen, seperti halaman web atau iklan, untuk menilai mana yang lebih efektif dalam mencapai tujuan tertentu, seperti konversi atau retensi pengguna.
