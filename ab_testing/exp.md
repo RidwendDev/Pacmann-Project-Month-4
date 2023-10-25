@@ -1,0 +1,1 @@
+**Simple Random Sampling:** Metode pengambilan sampel di mana setiap individu dalam populasi memiliki peluang yang sama untuk dipilih. Digunakan dalam proyek untuk meminimalkan bias dalam pemilihan sampel.
